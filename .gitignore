@@ -1,0 +1,8 @@
+# Recordings we don't have the rights to redistribute (kept locally only)
+audio/driver-strikes.mp3
+m.mp3
+models/
+
+# Local tooling and OS files
+.claude/
+.DS_Store
